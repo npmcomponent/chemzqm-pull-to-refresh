@@ -1,0 +1,22 @@
+{
+  "name": "chemzqm-pull-to-refresh",
+  "description": "pull to refresh",
+  "version": "0.0.1",
+  "keywords": [
+    "pull",
+    "refresh"
+  ],
+  "main": "index.js",
+  "styles": [
+    "ptr.css"
+  ],
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-once": "git://github.com/npmcomponent/component-once.git",
+    "component-raf": "git://github.com/npmcomponent/component-raf.git",
+    "component-tween": "git://github.com/npmcomponent/component-tween.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git"
+  },
+  "license": "MIT"
+}

@@ -1,9 +1,9 @@
-var events = require('event');
-var classes = require('classes');
-var domify = require('domify');
-var Tween = require('tween');
-var raf = require('raf');
-var once = require('once');
+var events = require('component-event');
+var classes = require('component-classes');
+var domify = require('component-domify');
+var Tween = require('component-tween');
+var raf = require('component-raf');
+var once = require('component-once');
 var template = require('./template.html');
 var dom = domify(template);
 
